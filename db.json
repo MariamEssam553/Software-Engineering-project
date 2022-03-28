@@ -1,0 +1,237 @@
+{
+  "photoData": [
+    {
+      "id": 1,
+      "title": "The First Photo",
+      "avatar": "https://www.w3schools.com/w3images/avatar2.png",
+      "img": "https://api.time.com/wp-content/uploads/2019/08/better-smartphone-photos.jpg",
+      "owner": {
+        "username": "Sara",
+        "ownerId": "123"
+      },
+      "description": "Such a great description for a great photo",
+      "visibility": {
+        "isPublic": true,
+        "isFriend": false,
+        "isFamily": false
+      },
+      "count_comments": 5,
+      "count_favourites": 4,
+      "date_posted": "2021-06-01T10:38:23.004000Z"
+    },
+    {
+      "id": 2,
+      "title": "The Second Photo",
+      "avatar": "https://www.w3schools.com/howto/img_avatar.png",
+      "img": "https://mdbcdn.b-cdn.net/img/new/standard/nature/111.jpg",
+      "owner": {
+        "username": "Aya",
+        "ownerId": "234"
+      },
+      "description": "Such a great description for a great photo",
+      "count_comments": 11,
+      "count_favourites": 50,
+      "date_posted": "2021-06-01T10:38:23.004000Z"
+    },
+    {
+      "id": 3,
+      "title": "The Third Photo",
+      "avatar": "https://www.w3schools.com/howto/img_avatar2.png",
+      "img": "https://www.pandasecurity.com/en/mediacenter/src/uploads/2013/11/pandasecurity-facebook-photo-privacy.jpg",
+      "owner": {
+        "username": "Ahmed",
+        "ownerId": "345"
+      },
+      "description": "Such a great description for a great photo",
+      "count_comments": 30,
+      "count_favourites": 90,
+      "date_posted": "2021-06-01T10:38:23.004000Z"
+    }
+  ],
+  "users": [
+    {
+      "newuser": {
+        "email": "menna.nawar@gmail.com",
+        "password": "Mennakamel123456",
+        "first_name": "menna",
+        "last_name": "kamel",
+        "age": "22"
+      },
+      "id": 1
+    },
+    {
+      "newuser": {
+        "email": "ahmed.kamelnawar@gmail.com",
+        "password": "Ahmedkamel123456",
+        "first_name": "ahmed",
+        "last_name": "nawar",
+        "age": "31"
+      },
+      "id": 2
+    }
+  ],
+  "CompleteSignup": [
+    {
+      "ResendemailSignup": "menna.nawar@gmail.com",
+      "id": 1
+    },
+    {
+      "ResendemailSignup": {
+        "email": "menna.nawar@gmail.com"
+      },
+      "id": 2
+    },
+    {
+      "ResendemailSignup": {
+        "email": "menna.nawar@gmail.com"
+      },
+      "id": 3
+    }
+  ],
+  "LoginUsers": [
+    {
+      "user": {
+        "email": "menna.nawar@gmail.com",
+        "password": "Mennakamel123456"
+      },
+      "id": 1
+    },
+    {
+      "user": {
+        "email": "menna.nawar@gmail.com",
+        "password": "Mennakamel123456"
+      },
+      "id": 2
+    },
+    {
+      "user": {
+        "email": "menna.nawar99@gmail.com",
+        "password": "Saraossama11111111"
+      },
+      "id": 3
+    },
+    {
+      "user": {
+        "email": "menna.nawar@gmail.com",
+        "password": "Mennakamel123456"
+      },
+      "id": 4
+    }
+  ],
+  "EmailsToResetPassword": [
+    {
+      "email": "menna.nawar@gmail.com",
+      "id": 1
+    },
+    {
+      "emailToResetPassword": "menna.nawar@gmail.com",
+      "id": 2
+    },
+    {
+      "EmailToResetPassword": "menna.nawar@gmail.com",
+      "id": 3
+    },
+    {
+      "ResendEmailToResetPassword": {
+        "email": "menna.nawar@gmail.com"
+      },
+      "id": 4
+    },
+    {
+      "EmailToResetPassword": "menna.nawar@gmail.com",
+      "id": 5
+    },
+    {
+      "ResendEmailToResetPassword": {
+        "email": "menna.nawar@gmail.com"
+      },
+      "id": 6
+    }
+  ],
+  "newpasswords": [
+    {
+      "usernewpassword": {
+        "password": "Dfghjkl11111111111"
+      },
+      "id": 1
+    },
+    {
+      "usernewpassword": {
+        "password": "11111111111111111"
+      },
+      "id": 2
+    }
+  ],
+  "notificationData": [
+    {
+      "id": 1,
+      "type": "comment",
+      "date": "osama",
+      "imageExist": true,
+      "imgSrc": "https://mdbcdn.b-cdn.net/img/new/standard/nature/111.jpg",
+      "notifierName": "Sarah Osama"
+    },
+    {
+      "id": 2,
+      "type": "faved",
+      "date": "osama",
+      "imageExist": true,
+      "imgSrc": "https://mdbcdn.b-cdn.net/img/new/standard/nature/111.jpg",
+      "notifierName": "Sarah Osama"
+    },
+    {
+      "id": 3,
+      "type": "follow",
+      "date": "osama",
+      "imageExist": true,
+      "imgSrc": "https://mdbcdn.b-cdn.net/img/new/standard/nature/111.jpg",
+      "notifierName": "Sarah Osama"
+    }
+  ],
+  "upload": [],
+  "profileUsers": [
+    {
+      "Name": "Omar Magdy",
+      "followers": "5",
+      "followings": "7",
+      "img": "//combo.staticflickr.com/pw/images/buddyicon00_r.png#192812172@N04",
+      "email": "mercol58@ymail.com",
+      "DateJoined": "2021",
+      "PhotoImg": "//live.staticflickr.com/65535/51128077926_2efaaaeeae_n.jpg",
+      "description": "picName",
+      "NumberOfPhotos": "1",
+      "imgOwner": "You"
+    }
+  ],
+  "gallery": [
+    {
+      "galleryName": "The Beginning",
+      "items": "3",
+      "comments": "0",
+      "views": "4",
+      "createdBy": "YOU!",
+      "galleryDescription": "my first gallery",
+      "galleryPhotos": {
+        "imgCover": "https://149528304.v2.pressablecdn.com/wp-content/uploads/2019/12/cuteiphone10.jpg",
+        "imgCover1": "https://i0.wp.com/www.runtoradiance.com/wp-content/uploads/2018/11/cute-iphone-wallpaper-of-cat.jpg",
+        "imgCover2": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cute-cat-photos-1593441022.jpg"
+      }
+    }
+  ],
+  "GroupMemberData": [
+    {
+      "id": 1,
+      "Name": "Mennatallah Elkhodary",
+      "avatar": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2019/07/Man-Silhouette.jpg",
+      "Numofpictures": "1234",
+      "Numoffriends": "345"
+    },
+    {
+      "id": 2,
+      "Name": "Sara Osama",
+      "avatar": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2019/07/Man-Silhouette.jpg",
+      "Numofpictures": "54",
+      "Numoffriends": "330"
+    }
+  ]
+}
